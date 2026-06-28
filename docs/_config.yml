@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Human Behavioral Neurobiology
+description: A practical canon for human behavioral neurobiology knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

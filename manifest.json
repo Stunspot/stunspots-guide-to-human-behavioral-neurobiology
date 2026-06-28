@@ -1,0 +1,174 @@
+{
+  "canon": {
+    "title": "Stunspot's Guide to Human Behavioral Neurobiology",
+    "slug": "human-behavioral-neurobiology",
+    "version": "1.0",
+    "date_released": "2026-06-28"
+  },
+  "corpus": {
+    "generated_at": "2026-06-28T05:00:21+00:00",
+    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "reports": [
+      {
+        "code": "A",
+        "title": "Field Ontology, Levels of Analysis, and Causal Boundaries",
+        "subtitle": "",
+        "source_filename": "A. Field Ontology, Levels of Analysis, and Causal Boundaries.md",
+        "source_path": "A. Field Ontology, Levels of Analysis, and Causal Boundaries.md",
+        "filename": "a-field-ontology-levels-of-analysis-and-causal-boundaries.md",
+        "path": "knowledge-packs/by-report/a-field-ontology-levels-of-analysis-and-causal-boundaries.md",
+        "size_bytes": 36591
+      },
+      {
+        "code": "B",
+        "title": "Operational Epistemology, Evidence Tiers, and Causal Humility",
+        "subtitle": "",
+        "source_filename": "B. Operational Epistemology, Evidence Tiers, and Causal Humility.md",
+        "source_path": "B. Operational Epistemology, Evidence Tiers, and Causal Humility.md",
+        "filename": "b-operational-epistemology-evidence-tiers-and-causal-humility.md",
+        "path": "knowledge-packs/by-report/b-operational-epistemology-evidence-tiers-and-causal-humility.md",
+        "size_bytes": 87503
+      },
+      {
+        "code": "C",
+        "title": "Predictive Processing, Active Inference, and Allostatic Control",
+        "subtitle": "",
+        "source_filename": "C. Predictive Processing, Active Inference, and Allostatic Control.md",
+        "source_path": "C. Predictive Processing, Active Inference, and Allostatic Control.md",
+        "filename": "c-predictive-processing-active-inference-and-allostatic-control.md",
+        "path": "knowledge-packs/by-report/c-predictive-processing-active-inference-and-allostatic-control.md",
+        "size_bytes": 91711
+      },
+      {
+        "code": "D",
+        "title": "Neuroenergetics, Metabolic Constraint, and the Cost of Cognition",
+        "subtitle": "",
+        "source_filename": "D. Neuroenergetics, Metabolic Constraint, and the Cost of Cognition.md",
+        "source_path": "D. Neuroenergetics, Metabolic Constraint, and the Cost of Cognition.md",
+        "filename": "d-neuroenergetics-metabolic-constraint-and-the-cost-of-cognition.md",
+        "path": "knowledge-packs/by-report/d-neuroenergetics-metabolic-constraint-and-the-cost-of-cognition.md",
+        "size_bytes": 133151
+      },
+      {
+        "code": "E",
+        "title": "Neuromodulation, Endocrine Signaling, and Motivational Tuning",
+        "subtitle": "",
+        "source_filename": "E. Neuromodulation, Endocrine Signaling, and Motivational Tuning.md",
+        "source_path": "E. Neuromodulation, Endocrine Signaling, and Motivational Tuning.md",
+        "filename": "e-neuromodulation-endocrine-signaling-and-motivational-tuning.md",
+        "path": "knowledge-packs/by-report/e-neuromodulation-endocrine-signaling-and-motivational-tuning.md",
+        "size_bytes": 180893
+      },
+      {
+        "code": "F",
+        "title": "Stress, Sleep, Immunity, and Autonomic State Dynamics",
+        "subtitle": "",
+        "source_filename": "F. Stress, Sleep, Immunity, and Autonomic State Dynamics.md",
+        "source_path": "F. Stress, Sleep, Immunity, and Autonomic State Dynamics.md",
+        "filename": "f-stress-sleep-immunity-and-autonomic-state-dynamics.md",
+        "path": "knowledge-packs/by-report/f-stress-sleep-immunity-and-autonomic-state-dynamics.md",
+        "size_bytes": 117542
+      },
+      {
+        "code": "G",
+        "title": "Behavioral Ecology, Affordance Landscapes, and Decision Under Constraint",
+        "subtitle": "",
+        "source_filename": "G. Behavioral Ecology, Affordance Landscapes, and Decision Under Constraint.md",
+        "source_path": "G. Behavioral Ecology, Affordance Landscapes, and Decision Under Constraint.md",
+        "filename": "g-behavioral-ecology-affordance-landscapes-and-decision-under-constraint.md",
+        "path": "knowledge-packs/by-report/g-behavioral-ecology-affordance-landscapes-and-decision-under-constraint.md",
+        "size_bytes": 135647
+      },
+      {
+        "code": "H",
+        "title": "Social Regulation, Coalition Dynamics, Status, Shame, and Belonging",
+        "subtitle": "",
+        "source_filename": "H. Social Regulation, Coalition Dynamics, Status, Shame, and Belonging.md",
+        "source_path": "H. Social Regulation, Coalition Dynamics, Status, Shame, and Belonging.md",
+        "filename": "h-social-regulation-coalition-dynamics-status-shame-and-belonging.md",
+        "path": "knowledge-packs/by-report/h-social-regulation-coalition-dynamics-status-shame-and-belonging.md",
+        "size_bytes": 52148
+      },
+      {
+        "code": "I",
+        "title": "Culture, Narrative, Ideology, and Collective Prediction Systems",
+        "subtitle": "",
+        "source_filename": "I. Culture, Narrative, Ideology, and Collective Prediction Systems.md",
+        "source_path": "I. Culture, Narrative, Ideology, and Collective Prediction Systems.md",
+        "filename": "i-culture-narrative-ideology-and-collective-prediction-systems.md",
+        "path": "knowledge-packs/by-report/i-culture-narrative-ideology-and-collective-prediction-systems.md",
+        "size_bytes": 166977
+      },
+      {
+        "code": "J",
+        "title": "Digital Attention Ecologies, Algorithmic Capture, and Platform-Shaped Cognition",
+        "subtitle": "",
+        "source_filename": "J. Digital Attention Ecologies, Algorithmic Capture, and Platform-Shaped Cognition.md",
+        "source_path": "J. Digital Attention Ecologies, Algorithmic Capture, and Platform-Shaped Cognition.md",
+        "filename": "j-digital-attention-ecologies-algorithmic-capture-and-platform-shaped-cognition.md",
+        "path": "knowledge-packs/by-report/j-digital-attention-ecologies-algorithmic-capture-and-platform-shaped-cognition.md",
+        "size_bytes": 67057
+      },
+      {
+        "code": "K",
+        "title": "Feedback Loops, Phase Transitions, and Systemic Failure Modes",
+        "subtitle": "",
+        "source_filename": "K. Feedback Loops, Phase Transitions, and Systemic Failure Modes.md",
+        "source_path": "K. Feedback Loops, Phase Transitions, and Systemic Failure Modes.md",
+        "filename": "k-feedback-loops-phase-transitions-and-systemic-failure-modes.md",
+        "path": "knowledge-packs/by-report/k-feedback-loops-phase-transitions-and-systemic-failure-modes.md",
+        "size_bytes": 38576
+      },
+      {
+        "code": "L",
+        "title": "State–Trait Differentiation, Differential Mapping, and Diagnostic Guardrails",
+        "subtitle": "",
+        "source_filename": "L. State–Trait Differentiation, Differential Mapping, and Diagnostic Guardrails.md",
+        "source_path": "L. State–Trait Differentiation, Differential Mapping, and Diagnostic Guardrails.md",
+        "filename": "l-statetrait-differentiation-differential-mapping-and-diagnostic-guardrails.md",
+        "path": "knowledge-packs/by-report/l-statetrait-differentiation-differential-mapping-and-diagnostic-guardrails.md",
+        "size_bytes": 104137
+      }
+    ],
+    "compiled_packs": [
+      {
+        "label": "Volume 1. A-D Foundations of Adaptive Regulation",
+        "source_filename": "[KNOWLEDGE] - Volume 1. A-D Foundations of Adaptive Regulation.md",
+        "source_path": "[KNOWLEDGE] - Volume 1. A-D Foundations of Adaptive Regulation.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-volume-1-a-d-foundations-of-adaptive-regulation.md",
+        "size_bytes": 349709
+      },
+      {
+        "label": "Volume 2. E-G Major Operating Domains I",
+        "source_filename": "[KNOWLEDGE] - Volume 2. E-G Major Operating Domains I.md",
+        "source_path": "[KNOWLEDGE] - Volume 2. E-G Major Operating Domains I.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-volume-2-e-g-major-operating-domains-i.md",
+        "size_bytes": 434592
+      },
+      {
+        "label": "Volume 3. H-J Major Operating Domains II",
+        "source_filename": "[KNOWLEDGE] - Volume 3. H-J Major Operating Domains II.md",
+        "source_path": "[KNOWLEDGE] - Volume 3. H-J Major Operating Domains II.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-volume-3-h-j-major-operating-domains-ii.md",
+        "size_bytes": 286740
+      },
+      {
+        "label": "Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers",
+        "source_filename": "[KNOWLEDGE] - Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers.md",
+        "source_path": "[KNOWLEDGE] - Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-volume-4-k-l-constraint-breakdown-and-diagnostic-layers.md",
+        "size_bytes": 143151
+      }
+    ],
+    "omnibus": [
+      {
+        "label": "Human Behavioral Neurobiology - Omnibus",
+        "source_filename": "[KNOWLEDGE] - Human Behavioral Neurobiology - Omnibus.md",
+        "source_path": "[KNOWLEDGE] - Human Behavioral Neurobiology - Omnibus.md",
+        "dest_path": "knowledge-packs/omnibus/knowledge-human-behavioral-neurobiology-omnibus.md",
+        "size_bytes": 1214024
+      }
+    ],
+    "unclassified": []
+  }
+}
