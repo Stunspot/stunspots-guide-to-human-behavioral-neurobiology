@@ -1,25 +1,31 @@
 # [KNOWLEDGE] - Human Behavioral Neurobiology
 
-[Volume 1. A-D Foundations of Adaptive Regulation]
+## Stunspot's Guide to Human Behavioral Neurobiology
+
+[Volume 1. A-D Foundations of Adaptive Regulation](#volume-1-a-d-foundations-of-adaptive-regulation)
 - [A. Cognitive Ecology of Adaptive Regulation — Field Ontology, Levels of Analysis, and Causal Boundaries](#a-cognitive-ecology-of-adaptive-regulation--field-ontology-levels-of-analysis-and-causal-boundaries)
 - [B. Operational Epistemology, Evidence Tiers, and Causal Humility](#b-operational-epistemology-evidence-tiers-and-causal-humility)
 - [C. Predictive Processing, Active Inference, and Allostatic Control](#c-predictive-processing-active-inference-and-allostatic-control)
 - [D. Neuroenergetics, Metabolic Constraint, and the Cost of Cognition](#d-neuroenergetics-metabolic-constraint-and-the-cost-of-cognition)
 
-[Volume 2. E-G Major Operating Domains I]
+[Volume 2. E-G Major Operating Domains I](#volume-2-e-g-major-operating-domains-i)
 - [E. Neuromodulation, Endocrine Signaling, and Motivational Tuning](#e-neuromodulation-endocrine-signaling-and-motivational-tuning)
 - [F. Stress, Sleep, Immunity, and Autonomic State Dynamics](#f-stress-sleep-immunity-and-autonomic-state-dynamics)
 - [G. Behavioral Ecology, Affordance Landscapes, and Decision Under Constraint](#g-behavioral-ecology-affordance-landscapes-and-decision-under-constraint)
 
-[Volume 3. H-J Major Operating Domains II]
+[Volume 3. H-J Major Operating Domains II](#volume-3-h-j-major-operating-domains-ii)
 - [H. Social Regulation, Coalition Dynamics, Status, Shame, and Belonging](#h-social-regulation-coalition-dynamics-status-shame-and-belonging)
 - [I. Culture, Narrative, Ideology, and Collective Prediction Systems](#i-culture-narrative-ideology-and-collective-prediction-systems)
 - [J. Digital Attention Ecologies, Algorithmic Capture, and Platform-Shaped Cognition](#j-digital-attention-ecologies-algorithmic-capture-and-platform-shaped-cognition)
 
-[Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers]
+[Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers](#volume-4-k-l-constraint-breakdown-and-diagnostic-layers)
 - [K. Feedback Loops, Phase Transitions, and Systemic Failure Modes](#k-feedback-loops-phase-transitions-and-systemic-failure-modes)
 - [L. State–Trait Differentiation, Differential Mapping, and Diagnostic Guardrails](#l-statetrait-differentiation-differential-mapping-and-diagnostic-guardrails)
 
+
+---
+
+# Volume 1. A-D Foundations of Adaptive Regulation
 
 ---
 
@@ -1704,6 +1710,10 @@ Report E will move directly into neuromodulation, endocrine signaling, and the m
 32. Social Baseline Theory : r/adhdwomen - Reddit, accessed May 12, 2026, [https://www.reddit.com/r/adhdwomen/comments/1rgzvy7/social_baseline_theory/](https://www.reddit.com/r/adhdwomen/comments/1rgzvy7/social_baseline_theory/)  
 33. Research | Virginia Affective Neuroscience Laboratory, accessed May 12, 2026, [https://affectiveneuroscience.org/research/](https://affectiveneuroscience.org/research/)  
 34. Social Baseline Theory: Health, Well-Being, and the Social Regulation of Effort, accessed May 12, 2026, [https://www.mindandlife.org/session/social-baseline-theory-health-well-being-and-the-social-regulation-of-effort/](https://www.mindandlife.org/session/social-baseline-theory-health-well-being-and-the-social-regulation-of-effort/)
+
+---
+
+# Volume 2. E-G Major Operating Domains I
 
 ---
 
@@ -3441,6 +3451,9 @@ Internal Somatic State x Objective Environment Geometry -> Perceived Affordances
 33. Information Foraging Theory - Peter Pirolli, accessed May 12, 2026, [https://www.peterpirolli.com/ewExternalFiles/31354_C01_UNCORRECTED_PROOF.pdf](https://www.peterpirolli.com/ewExternalFiles/31354_C01_UNCORRECTED_PROOF.pdf)  
 34. DAVID W. STEPHENS JOHN R. KREBS - Gwern.net, accessed May 12, 2026, [https://gwern.net/doc/statistics/decision/1986-stephens-foragingtheory.pdf](https://gwern.net/doc/statistics/decision/1986-stephens-foragingtheory.pdf)
 
+---
+
+# Volume 3. H-J Major Operating Domains II
 
 ---
 
@@ -4761,6 +4774,10 @@ Where:
 35. THE EU DIGITAL SERVICES ACT AND UK ONLINE SAFETY ACT: WHERE ARE WE NOW? - Slaughter and May, accessed May 12, 2026, [https://www.slaughterandmay.com/media/yhkfefnr/the-eus-digital-services-act-and-uk-online-safety-act-where-are-we-now.pdf](https://www.slaughterandmay.com/media/yhkfefnr/the-eus-digital-services-act-and-uk-online-safety-act-where-are-we-now.pdf)  
 36. Online Safety Act: explainer - GOV.UK, accessed May 12, 2026, [https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer](https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer)  
 37. A four-level meta-analytic review of the relationship between social media and well-being: a fresh perspective in the context of COVID-19 - PMC, accessed May 12, 2026, [https://pmc.ncbi.nlm.nih.gov/articles/PMC9748903/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9748903/)
+
+---
+
+# Volume 4. K-L Constraint, Breakdown, and Diagnostic Layers
 
 ---
 

@@ -1184,7 +1184,7 @@ To maintain scientific precision in later volumes of this canon, future reports 
 ---
 
 # G. Behavioral Ecology, Affordance Landscapes, and Decision Under Constraint
-
+  
 ## **Executive Orientation**
 
 This report serves as the publication-grade action-selection ecology manual for Volume 2 of the knowledge-base canon, providing the formal structural architecture required to analyze behavioral choices as state-dependent active inference within localized niches. Within this framework, behavior is not selected from an abstract, unpriced menu of options, nor can it be modeled through idealized rational-choice matrices detached from the organism's current physiological reality. Instead, behavioral selection represents the physical instantiation of allostatic control, where organisms navigate a dynamic, relational landscape of affordances filtered by physiological states, metabolic budgets, prior learning, social vulnerabilities, and structural institutional bounds.
