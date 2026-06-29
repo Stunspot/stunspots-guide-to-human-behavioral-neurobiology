@@ -3,6 +3,10 @@
 Generated: 2026-06-28T05:00:21+00:00  
 Audited: 2026-06-28  
 Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
+## Citation and Archive
+
+**DOI:** https://doi.org/10.5281/zenodo.21039283  
+**Zenodo Record:** https://zenodo.org/records/21039283
 
 ## Public Positioning
 

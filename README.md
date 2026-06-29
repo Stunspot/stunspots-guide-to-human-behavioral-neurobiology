@@ -11,6 +11,7 @@
 ![Reports](https://img.shields.io/badge/source_reports-12-blue)
 ![Compiled Packs](https://img.shields.io/badge/compiled_packs-4-blueviolet)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039283.svg)](https://doi.org/10.5281/zenodo.21039283)
 
 *Stunspot's Guide to Human Behavioral Neurobiology* is a Markdown-native knowledge canon built primarily for AI/RAG ingestion, long-context reasoning, project knowledge bases, and model-facing behavioral interpretation.
 
