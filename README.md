@@ -30,6 +30,10 @@ Use it as RAG substrate.
 Use it as model doctrine for behavioral analysis.  
 Use it as a guardrail against lazy neuro-reductionist nonsense wearing a lab coat.
 
+Part of the Stunspot’s Guide to… Advanced Knowledge Base Library
+Browse the full library: 
+[Gateway Repo](https://github.com/Stunspot/stunspots-guides) · [stunspot.com](stunspot.com/#guides)
+
 ---
 
 ## Start Here
